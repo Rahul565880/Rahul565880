@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rahul Pawar 👋</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer </h3>
 
 <p align="center">
   Passionate about building scalable web applications and solving real-world problems through clean, efficient, and user-friendly code.
