@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Graduate
-- 💻 Full Stack Developer with a focus on MERN Stack
+- 💻 Full Stack Developer 
 - 🌱 Currently learning Advanced Web Development & System Design
 - 🎯 Interested in building impactful and user-centric applications
 - 💡 Strong problem-solving skills and a quick learner
